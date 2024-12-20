@@ -1,0 +1,25 @@
+.navbar {
+    background-color: var(--color-blue-primary);
+}
+
+.navbar-brand-custom {
+    font-family: 'Russo One';
+}
+
+.nav-link {
+    font-size: 1rem;
+    margin-left: 1rem; /* Espaciado entre enlaces */
+}
+
+.navbar-toggler {
+    border: 2px solid rgba(255,255,255,0.5);
+    padding: 0.5rem;
+}
+
+.navbar-toggler-icon {
+    background-image: url("data:image/svg+xml,%3csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 30 30'%3e%3cpath stroke='rgba%28255, 255, 255, 0.75%29' stroke-linecap='round' stroke-miterlimit='10' stroke-width='2' d='M4 7h22M4 15h22M4 23h22'/%3e%3c/svg%3e");
+}
+
+img {
+    max-height: 45px; /* Asegura que el logo no se deforme */
+}

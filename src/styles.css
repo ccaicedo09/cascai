@@ -1,1 +1,10 @@
-/* You can add global styles to this file, and also import other style files */
+body {
+    font-family: 'Source Sans Pro', sans-serif;
+}
+
+:root {
+    --color-blue-primary: #171e60;
+    --color-blue-secondary: #1f2d7d;
+    --color-blue-tertiary: #2c3e9e;
+    --color-white: #ffffff;
+}
