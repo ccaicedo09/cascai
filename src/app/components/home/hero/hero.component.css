@@ -1,0 +1,13 @@
+.hero {
+    background: linear-gradient(135deg, var(--color-blue-primary) 0%, darken(var(--color-blue-primary), 15%) 100%);
+    padding: 4rem 0;
+    
+    h1 {
+        font-family: 'Russo One', sans-serif;
+    }
+    
+    .btn-primary {
+        padding: 1rem 2rem;
+        border-radius: 50px;
+    }
+}
